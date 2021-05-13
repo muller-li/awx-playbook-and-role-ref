@@ -1,5 +1,5 @@
 ---
 
-- hosts: servers
+- hosts: test
   roles:
     - { role: twenty.awx-role-gitlab }
