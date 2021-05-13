@@ -1,5 +1,5 @@
 ---
 
-- src: https://github.com/muller-li/awx-gitlab.git
-  version: 1.0
+- src: https://github.com/geerlingguy/ansible-role-gitlab.git
+  version: 3.1.0
   name: geerlingguy.gitlab
