@@ -1,0 +1,5 @@
+---
+
+- src: https://github.com/muller-li/awx-gitlab.git
+  version: 1.0
+  name: twenty.awx-role-gitlab
