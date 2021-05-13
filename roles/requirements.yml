@@ -1,4 +1,4 @@
 ---
 
-- src: https://github.com/muller-li/awx-gitlab.git
+- src: https://github.com/muller-li/awx-role-gitlab.git
   name: twenty.awx-role-gitlab 
