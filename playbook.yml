@@ -2,4 +2,4 @@
 
 - hosts: test
   roles:
-    - { role: twenty.awx-role-gitlab }
+    - { role: geerlingguy.gitlab }
