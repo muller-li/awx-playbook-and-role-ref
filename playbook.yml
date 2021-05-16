@@ -1,5 +1,5 @@
 ---
 
-- hosts: test
+- hosts: srv-gitlab01.twentyone.lan
   roles:
     - { role: twenty.awx-role-gitlab }
